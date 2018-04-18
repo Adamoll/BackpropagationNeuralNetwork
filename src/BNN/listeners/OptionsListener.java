@@ -1,4 +1,4 @@
-package BNN;
+package BNN.listeners;
 
 /**
  * Created by Adam on 02.04.2018.

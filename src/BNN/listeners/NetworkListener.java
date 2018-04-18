@@ -1,4 +1,4 @@
-package BNN;
+package BNN.listeners;
 
 public interface NetworkListener {
     void startLearning();

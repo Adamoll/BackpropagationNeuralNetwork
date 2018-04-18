@@ -1,11 +1,16 @@
 package BNN;
 
+import BNN.listeners.DrawingPanelListener;
+import BNN.listeners.NetworkListener;
+import BNN.listeners.OptionsListener;
+import BNN.network.NetworkUtils;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Options extends JPanel implements ActionListener, OptionsListener{
+public class Options extends JPanel implements ActionListener, OptionsListener {
     private JLabel weightRangesLabel;
     private JLabel hiddenLayerSizeLabel;
     private JLabel learningRateLabel;

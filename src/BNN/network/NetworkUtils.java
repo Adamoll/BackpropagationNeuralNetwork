@@ -1,4 +1,4 @@
-package BNN;
+package BNN.network;
 
 import java.io.File;
 import java.util.concurrent.ThreadLocalRandom;

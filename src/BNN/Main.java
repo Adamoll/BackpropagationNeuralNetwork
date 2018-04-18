@@ -1,5 +1,7 @@
 package BNN;
 
+import BNN.network.Network;
+
 import javax.swing.*;
 import java.awt.*;
 

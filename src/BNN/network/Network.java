@@ -1,4 +1,8 @@
-package BNN;
+package BNN.network;
+
+import BNN.ImageReader;
+import BNN.listeners.NetworkListener;
+import BNN.listeners.OptionsListener;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package BNN;
+package BNN.network;
 
 public class Connection {
     Neuron left;
